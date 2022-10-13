@@ -1,7 +1,7 @@
 import React from 'react';
 
 const Projects = () => (
-  <div className="w-full h-screen bg-[#1a1b1b]">
+  <div className="w-full min-w-[360px] bg-[#1a1b1b]">
     <div className="max-w-[1000px] mx-auto px-8 flex flex-col h-full justify-center items-center">
       <h1 className="text-[#e6e6e9] text-4xl self-start sm:text-5xl py-6">About Me</h1>
       <p className="text-[#e6e6e9] text-l self-start sm:text-xl py-3 font-serif">
