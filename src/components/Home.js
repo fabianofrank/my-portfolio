@@ -4,7 +4,7 @@ import { BsGithub, BsLinkedin, BsTwitter } from 'react-icons/bs';
 import avatar from '../assets/fabianofrank.jpg';
 
 const Home = () => (
-  <div name="" className="w-full min-w-[360px] bg-[#1a1b1b] px-10">
+  <div name="" className="w-full min-w-[360px] px-10">
     <div className="max-w-[1000px] mx-auto px-8 flex flex-col h-full justify-center items-center">
       <img className="rounded-full w-48 m-6" src={avatar} alt="avatar" />
       <p className="text-1xl sm:text-xl text-[#e6e6e9] font-bold">Hi, my name is</p>
