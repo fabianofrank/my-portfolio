@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.ee2e87d2.css",
+    "main.js": "/my-portfolio/static/js/main.96395acf.js",
+    "static/media/fabianofrank.jpg": "/my-portfolio/static/media/fabianofrank.b9819a3310674c773abf.jpg",
+    "static/media/spacetravelers.png": "/my-portfolio/static/media/spacetravelers.674e3a00c08fff399610.png",
+    "static/media/showroom.png": "/my-portfolio/static/media/showroom.9f46c7448bb17056cae9.png",
+    "static/media/pokemon.png": "/my-portfolio/static/media/pokemon.a4343c845e70c625ad5a.png",
+    "static/media/bg2.png": "/my-portfolio/static/media/bg2.61f4d3334a6d245fc229.png",
+    "static/media/apple_detail.png": "/my-portfolio/static/media/apple_detail.9cf6bce0a8a24f83b01a.png",
+    "static/media/wallet.png": "/my-portfolio/static/media/wallet.d835b05a97f587ea2ae8.png",
+    "static/media/bookstore.png": "/my-portfolio/static/media/bookstore.92e8c47f4f0dfc38f17e.png",
+    "static/media/blog_mock.png": "/my-portfolio/static/media/blog_mock.93571d39d8fd31ea8f7c.png",
+    "index.html": "/my-portfolio/index.html",
+    "main.ee2e87d2.css.map": "/my-portfolio/static/css/main.ee2e87d2.css.map",
+    "main.96395acf.js.map": "/my-portfolio/static/js/main.96395acf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee2e87d2.css",
+    "static/js/main.96395acf.js"
+  ]
+}
