@@ -6,7 +6,7 @@ const Navbar = () => (
     <div className="max-w-5xl mx-auto px-4">
       <div className="flex items-center justify-between h-16">
         <span className="text-xl text-[#e6e6e9] font-semibold font-mono">
-          <Link to="/">Frank</Link>
+          <Link to="/my-portfolio">Frank</Link>
         </span>
         <div className="hidden md:flex space-x-4 text-xl text-[#e6e6e9]">
           <Link to="/about">About</Link>
