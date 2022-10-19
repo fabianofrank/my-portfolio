@@ -22,7 +22,7 @@ const Home = () => {
           Frank
         </h1>
         <h2 className="text-4xl sm:text-4xl text-[#e6e6e9] font-bold">
-          I am a Web Developer
+          I am a Software Developer
         </h2>
         <p className=" text-[#e6e6e9] py-9 max-w-[700px]">
           I can help you build a product, feature or website. Take a look of my
@@ -36,10 +36,10 @@ const Home = () => {
           <a className="text-white text-3xl px-6 py-3 my-3 hover:text-purple-500 hover:transition-shadow duration-300" href="https://github.com/fabianofrank">
             <BsGithub />
           </a>
-          <a className="text-white text-3xl px-6 py-3 my-3 hover:text-purple-500 hover:transition-shadow duration-300" href="https://github.com/fabianofrank">
+          <a className="text-white text-3xl px-6 py-3 my-3 hover:text-purple-500 hover:transition-shadow duration-300" href="https://twitter.com/fabianofrankk/">
             <BsTwitter />
           </a>
-          <a className="text-white text-3xl px-6 py-3 my-3 hover:text-purple-500 hover:transition-shadow duration-300" href="https://github.com/fabianofrank">
+          <a className="text-white text-3xl px-6 py-3 my-3 hover:text-purple-500 hover:transition-shadow duration-300" href="https://www.linkedin.com/in/fabianofrank/">
             <BsLinkedin />
           </a>
         </div>
