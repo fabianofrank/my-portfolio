@@ -5,6 +5,7 @@
 
 html, body, #root, .App {
   background-color: #1a1b1b;
+  /* background-color: #e0e0e0; */
   background-image: url('./assets/bg2.png');
   background-repeat: no-repeat;
 }
