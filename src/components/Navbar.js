@@ -8,11 +8,10 @@ const Navbar = () => (
         <span className="text-xl text-[#e6e6e9] font-semibold font-mono">
           <Link to="/my-portfolio">Frank</Link>
         </span>
-        <div className="hidden md:flex space-x-4 text-xl text-[#e6e6e9]">
+        <div className="flex space-x-4 text-xl text-[#e6e6e9]">
           <Link to="/about">About</Link>
           <Link to="/projects">Projects</Link>
         </div>
-        <span className="flex text-xl md:hidden text-white">Menu</span>
       </div>
     </div>
   </nav>
