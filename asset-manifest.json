@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/my-portfolio/static/css/main.ee2e87d2.css",
-    "main.js": "/my-portfolio/static/js/main.a6f38ca3.js",
+    "main.css": "/my-portfolio/static/css/main.813b0993.css",
+    "main.js": "/my-portfolio/static/js/main.e8fd6224.js",
     "static/media/fabianofrank.jpg": "/my-portfolio/static/media/fabianofrank.b9819a3310674c773abf.jpg",
     "static/media/spacetravelers.png": "/my-portfolio/static/media/spacetravelers.674e3a00c08fff399610.png",
     "static/media/showroom.png": "/my-portfolio/static/media/showroom.9f46c7448bb17056cae9.png",
@@ -12,11 +12,11 @@
     "static/media/bookstore.png": "/my-portfolio/static/media/bookstore.92e8c47f4f0dfc38f17e.png",
     "static/media/blog_mock.png": "/my-portfolio/static/media/blog_mock.93571d39d8fd31ea8f7c.png",
     "index.html": "/my-portfolio/index.html",
-    "main.ee2e87d2.css.map": "/my-portfolio/static/css/main.ee2e87d2.css.map",
-    "main.a6f38ca3.js.map": "/my-portfolio/static/js/main.a6f38ca3.js.map"
+    "main.813b0993.css.map": "/my-portfolio/static/css/main.813b0993.css.map",
+    "main.e8fd6224.js.map": "/my-portfolio/static/js/main.e8fd6224.js.map"
   },
   "entrypoints": [
-    "static/css/main.ee2e87d2.css",
-    "static/js/main.a6f38ca3.js"
+    "static/css/main.813b0993.css",
+    "static/js/main.e8fd6224.js"
   ]
 }
